@@ -78,7 +78,7 @@ Step 7: Save and run the application.
 ```
 ### MainActivity.java
 ```
-package com.example.kaviya;
+package com.example.hiba;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -108,7 +108,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 ### CustomAadapter.java
 ```
-package com.example.kaviya;
+package com.example.hiba;
 
 
 import android.content.Context;
