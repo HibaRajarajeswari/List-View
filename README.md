@@ -1,6 +1,6 @@
-# To develop an application that uses List View
+# Ex.No:7 Develop an android application to display the place name with image using list view in android studio.
 ## AIM:
-To develop an application that uses List View components.
+To develop an android application to display the place name with image using list view in android studio.
 ## EQUIPMENTS REQUIRED:
 Latest Version Android Studio
 ## ALGORITHM:
